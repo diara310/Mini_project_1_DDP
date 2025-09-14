@@ -34,5 +34,5 @@ ketika dipilih, user akan diminta mengisi beberapa data:
 
 <h2> Pilihan Kedua </h2>
 <p> pilihan kedua ini digunakan untuk melihat seluruh daftar peminjaman yang diketik di bagian 1. 
-Jika sudah ada data dari bagian 1 dia akan menampilkan </p>
+Jika sudah ada data dari bagian 1 dia akan menampilkan: </p>
 <img width="1156" height="180" alt="Image" src="https://github.com/user-attachments/assets/a28c964b-b2e6-4f2b-a390-c9568490a3bd" />
