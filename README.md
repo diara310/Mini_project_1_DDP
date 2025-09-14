@@ -21,4 +21,8 @@ pilihan tersebut ada:
 </p>
 <p> 1. Tambah Pinjaman </p>
 <p> 2. Lihat Daftar Peminjman </p>
-<p> Lalu di berikan sebuah inputan untuk memilih mana yang ingin di pilih dari 1-2 tersebut, jika menginput selain 1-2, maka mengeluarkan output: Input tidak valid </p>
+<p> Lalu di berikan sebuah inputan untuk memilih mana yang ingin di pilih dari 1-2 tersebut, jika menginput selain 1-2, maka mengeluarkan output: Input tidak valid. </p>
+<img width="1149" height="269" alt="Image" src="https://github.com/user-attachments/assets/6753f8e9-7d1a-4bbd-8ebf-32d7d05cc6eb" />
+
+<h2> Pilihan Pertama </h2>
+<p> jika masuk ke pilihan pertama, </p>
