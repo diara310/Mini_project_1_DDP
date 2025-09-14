@@ -15,3 +15,10 @@ SISTEM INFORMASI (C)
 <br>
 
 <h2> Output Menu </h2>
+<img width="1144" height="440" alt="Image" src="https://github.com/user-attachments/assets/7353d4c8-afb3-48b0-a634-4729db2b13a7" />
+<p> program peminjaman ini jika dijalankan maka yang pertama akan keluar menu yang terdiri dari 2 pilihan
+pilihan tersebut ada:
+</p>
+<p> 1. Tambah Pinjaman </p>
+<p> 2. Lihat Daftar Peminjman </p>
+<p> Lalu di berikan sebuah inputan untuk memilih mana yang ingin di pilih dari 1-2 tersebut, jika menginput selain 1-2, maka mengeluarkan output: Input tidak valid </p>
