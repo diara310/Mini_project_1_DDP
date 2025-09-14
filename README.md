@@ -25,4 +25,9 @@ pilihan tersebut ada:
 <img width="1149" height="269" alt="Image" src="https://github.com/user-attachments/assets/6753f8e9-7d1a-4bbd-8ebf-32d7d05cc6eb" />
 
 <h2> Pilihan Pertama </h2>
-<p> jika masuk ke pilihan pertama, </p>
+<p> jika masuk ke pilihan pertama, pilihan ini digunakan untuk menambah data peminjaman.
+ketika dipilih, user akan diminta mengisi beberapa data:
+</p>
+<p> Nama Peminjam, Judul DVD/CD, Tanggal Pinjam. Setelah semua data dimasukkan, program menyimpan informasi tersebut ke dalam daftar peminjaman, lalu menampilkan pesan: </p>
+
+
