@@ -1,0 +1,32 @@
+# Nama  : Diara Gladys Ignacia Fulvia Saputri
+# Nim   : 2509116093
+# Kelas : Sistem Informasi (C)
+# MINI PROJECT 1, Sistem Peminjaman DVD/CD
+
+peminjaman = []
+
+print("=== Menu Sistem Peminjaman DVD/CD ===")
+print("1. Tambahkan Peminjaman")
+print("2. Lihat Daftar Peminjaman")
+
+masukan = input("Pilih Menu (1-2): ")
+
+if masukan == "1":
+    nama = input("Masukkan Nama Peminjam: ")
+    judul = input("Masukkan Judul DVD/CD: ")
+    tanggal = input("Masukkan Tanggal Pinjam (dd-mm-yyyy): ")
+    
+    peminjaman = [nama, judul, tanggal]
+    print("Peminjaman berhasil ditambahkan")
+
+    print("\n=== Menu Sistem Peminjaman DVD/CD ===")
+    print("1. Tambahkan Peminjaman")
+    print("2. Lihat Daftar Peminjaman")
+
+    masukan = input("Pilih Menu (1-2): ")
+
+if masukan == "2":
+    print("=== Daftar Peminjaman ===")
+    print(peminjaman)
+else:
+    print("Input tidak valid")
